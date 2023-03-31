@@ -1,0 +1,2 @@
+# cld
+cat linux detail
